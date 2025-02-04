@@ -1,1 +1,1 @@
-Resonite related projects by Gray and Brodokk.
+Projects related to Resonite and its communities.
